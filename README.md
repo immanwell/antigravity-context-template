@@ -1,6 +1,6 @@
 # 🚀 Antigravity Context Engineering Template
 
-This repository provides a structured "Memory Bank" for autonomous agents in Google Antigravity, implementing best practices from Context Engineering.
+This repository provides a structured Memory Bank for autonomous agents in Google Antigravity, implementing best practices from Context Engineering.
 
 **Structure:**
 * `memory-bank/`: Persistent context files (Project Brief, Current State, Patterns).
